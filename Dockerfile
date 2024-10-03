@@ -1,5 +1,5 @@
 # 1. specify a base image
-FROM node:10.19
+FROM node:10.24
 
 WORKDIR /root/app
 
